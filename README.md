@@ -7,8 +7,6 @@
 | **Ders Grubu** | A Grubu |
 | **GitHub** | https://github.com/mrzclkk/vet-klinik |
 
-> Sakarya Üniversitesi · Web Programlama · 2026-2027 Güz Dönemi Proje Ödevi
-
 ## Projenin Tanıtımı
 
 Bu proje, ASP.NET Core MVC ile geliştirilen bir **veteriner kliniği randevu ve hasta takip sistemidir**.
