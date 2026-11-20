@@ -5,7 +5,7 @@
 | **Öğrenci No** | B241200060 |
 | **Ad Soyad** | Melik Mirza Çelik |
 | **Ders Grubu** | A Grubu |
-| **GitHub** | _(depo oluşturulunca eklenecek)_ |
+| **GitHub** | https://github.com/mrzclkk/vet-klinik |
 
 > Sakarya Üniversitesi · Web Programlama · 2026-2027 Güz Dönemi Proje Ödevi
 
